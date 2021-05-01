@@ -12,6 +12,7 @@ router.post ('/questions', async (req, res) => {
             description,
             alternatives
         })
+        question.save();
         return res.status(201).json(question);
     } catch (error) {
         return res.status(500).json({"error":error})
