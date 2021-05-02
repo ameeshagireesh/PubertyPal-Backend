@@ -8,4 +8,4 @@ PubertyPal is an app that is aimed at resolving these issues. It answers all the
 
 
 
-Porject submission for: DEVSOC'21 (conducted by CodeChef-VIT)
+Project submission for: DEVSOC'21 (conducted by CodeChef-VIT)
