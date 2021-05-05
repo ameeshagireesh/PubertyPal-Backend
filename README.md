@@ -9,3 +9,5 @@ PubertyPal is an app that is aimed at resolving these issues. It answers all the
 
 
 Project submission for: DEVSOC'21 (conducted by CodeChef-VIT)
+
+Link to Frontend: https://github.com/sanjaybaskaran01/PubertyPal-Frontend
